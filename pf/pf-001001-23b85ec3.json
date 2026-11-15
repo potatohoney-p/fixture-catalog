@@ -1,0 +1,13 @@
+{
+  "record_id": "pf-001001",
+  "phase": "evaluate",
+  "metric": "recency",
+  "value": 21.0796,
+  "sample_size": 1827,
+  "digest": "b16a570c53f9e1c2048eb90a120b089c",
+  "window": {
+    "start": "2026-05-13",
+    "span_hours": 12
+  },
+  "notes": "deterministic fixture generated for harness validation"
+}
